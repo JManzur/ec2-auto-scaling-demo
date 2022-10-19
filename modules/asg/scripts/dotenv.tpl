@@ -1,0 +1,7 @@
+AWS_REGION='${AWS_REGION}'
+AWS_PROFILE='${AWS_PROFILE}'
+ALB_ARN='${ALB_ARN}'
+Listener_ARN='${Listener_ARN}'
+Farm1_ARN='${Farm1_ARN}'
+Farm2_ARN='${Farm2_ARN}'
+ALB_FQDN='${ALB_FQDN}'
